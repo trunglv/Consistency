@@ -1,6 +1,6 @@
 {
-    "name"       : "hoa/consistency",
-    "description": "The Hoa\\Consistency library.",
+    "name"       : "trunglv/consistency",
+    "description": "The Hoa\\Consistency library. [Trunglv Maintenance]",
     "type"       : "library",
     "keywords"   : ["library", "consistency", "autoloader", "entity", "flex",
                     "keyword", "callable"],
